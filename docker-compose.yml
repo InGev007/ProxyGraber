@@ -1,0 +1,7 @@
+version: "3.3"
+
+services:
+  proxy:
+    build: ./
+    image: proxygraber:latest
+    restart: always

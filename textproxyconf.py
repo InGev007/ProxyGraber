@@ -1,0 +1,27 @@
+proxysitelist=[
+    "https://api.proxyscrape.com/?request=displayproxies&proxytype=socks4",
+    "https://www.proxy-list.download/api/v1/get?type=socks4",
+    "https://www.proxyscan.io/download?type=socks4",
+    "https://api.openproxylist.xyz/socks4.txt",
+    "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks4.txt",
+    "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt",
+    "https://api.proxyscrape.com/?request=displayproxies&proxytype=socks5",
+    "https://www.proxy-list.download/api/v1/get?type=socks5",
+    "https://www.proxyscan.io/download?type=socks5",
+    "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks5.txt",
+    "https://api.openproxylist.xyz/socks5.txt",
+    "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt",
+    "https://api.proxyscrape.com/?request=displayproxies&proxytype=http",
+    "https://www.proxy-list.download/api/v1/get?type=http",
+    "https://www.proxyscan.io/download?type=http",
+    "https://api.openproxylist.xyz/http.txt",
+    "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
+    "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt",
+    "https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt",
+    "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt",
+    "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt"
+ #   "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt",
+ #   "https://raw.githubusercontent.com/mmpx12/proxy-list/master/socks4.txt",
+ #   "https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS4_RAW.txt",
+ #   "https://raw.githubusercontent.com/UserR3X/proxy-list/main/socks4.txt"
+]
